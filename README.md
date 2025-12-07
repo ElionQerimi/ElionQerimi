@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">⚡ Elion Qerimi</h1>
+<h3 align="center">Software Developer • Linux • Cybersecurity</h3>
 
-<!--
-**ElionQerimi/ElionQerimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Software Developer (Application Development)
+- 🐧 Linux Power User (Ubuntu, Kali)
+- 🔐 Focus: **Cybersecurity, Low-Level, Automation**
+- ⚙️ Languages & Skills:
+  - Python (Automation, Tools)
+  - JavaScript / PHP (Web)
+- 🧪 Interests: Exploits, Reverse Engineering, Security Tools
+- 🧱 I build my systems **from the ground up**
+
+
+## 🚀 Active Projects
+
+- 📘 **Learning C** – Deep dive into low-level programming & memory
+- 🎧 **MyMusik** – Local YouTube → MP3 Player for Windows
+- 🧠 **My Own AI** – Personal AI system for automation, knowledge & control  
+- 💼 **TaxEasy** – Simple & automated tax management platform
+
+
+## 🧭 Motto
+
+> **"I'm the best programmer on Earth chosen by god"**  
+> — Terry A. Davis
+
+---
