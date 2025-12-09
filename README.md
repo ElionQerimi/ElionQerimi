@@ -18,7 +18,7 @@
 ## 🚀 Active Projects
 
 - 📘 **Learning C** – Deep dive into low-level programming & memory
-- 🎧 **MyMusik** – Local YouTube → MP3 Player for Windows
+- 🎧 **MyMusik** – Local YouTube → MP3 Player for Windows/linux/MacOS
 - 🧠 **My Own AI** – Personal AI system for automation, knowledge & control  
 - 💼 **TaxEasy** – Simple & automated tax management platform
 
