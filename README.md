@@ -22,10 +22,4 @@
 - 🧠 **My Own AI** – Personal AI system for automation, knowledge & control  
 - 💼 **TaxEasy** – Simple & automated tax management platform
 
-
-## 🧭 Motto
-
-> **"I'm the best programmer on Earth chosen by god"**  
-> — Terry A. Davis
-
 ---
